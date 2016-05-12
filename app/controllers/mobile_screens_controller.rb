@@ -1,0 +1,2 @@
+class MobileScreensController < ApplicationController
+end
