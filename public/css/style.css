@@ -2452,6 +2452,8 @@ span.data-color {
 1. Custom Style
 -------------------------------------------------------------------*/
 
+@import 'ionicons';
+
 .opacity-overlay-black.dark {
     position: absolute;
     top: 0;
