@@ -251,3 +251,4 @@ ActionController::RoutingError (No route matches [GET] "/"):
   Rendered /Users/khadijahcoakley/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
   Rendered /Users/khadijahcoakley/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
   Rendered /Users/khadijahcoakley/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (77.2ms)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: 'index'` to `controller: 'index'`. (called from block in <top (required)> at /Users/khadijahcoakley/FS Ventures/guardian-app/config/routes.rb:6)
